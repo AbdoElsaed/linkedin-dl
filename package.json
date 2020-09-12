@@ -1,0 +1,14 @@
+{
+  "name": "ldl",
+  "version": "1.0.0",
+  "description": "Nodejs Script to download courses from LinkedIn",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Apdo Elsaed",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
