@@ -1,4 +1,4 @@
-## Instructions
+## How to use
 
 *   download node.js from this link https://nodejs.org
 *   open your command line in the script directory and type __npm install__
