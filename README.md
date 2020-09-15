@@ -14,4 +14,4 @@
 ## TODOs
 
 * download transcripts of each video
-* create a GUI to ease the usage using electron
+* create a GUI using electron to ease the usage
